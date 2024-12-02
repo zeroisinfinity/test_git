@@ -20,3 +20,5 @@ for ans in x_list[0::2]:
     output+=ans
 
 print(output)
+#modified for git
+
